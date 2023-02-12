@@ -46,3 +46,8 @@ console.py - the console contains the entry point of the command interpreter. Li
   * review.py
   * state.py
   * user.py
+
+
+AUTHURS 
+1.) EYATU PHILIP ESAMU <eyatuphilipesamu@gmail.com>
+2.) WAISWA KENNETH <>
