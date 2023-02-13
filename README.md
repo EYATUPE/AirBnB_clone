@@ -50,4 +50,4 @@ console.py - the console contains the entry point of the command interpreter. Li
 
 AUTHURS 
 1.) EYATU PHILIP ESAMU <eyatuphilipesamu@gmail.com>
-2.) WAISWA KENNETH <>
+2.) WAISWA KENNETH <wswkenneth7@hotmail.com>
